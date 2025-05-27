@@ -74,7 +74,7 @@ class TextProcessor:
 
                                         <div class="col-3-3 center">
 
-                                        <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" alt=""/>
+                                        <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" style="max-width:80%; padding:10%!important; background:#fff" alt=""/>
 
 
                                         </div>
@@ -100,7 +100,7 @@ class TextProcessor:
      
         mainTemplateElementLeft = f"""<div class="col-3-3 cc-mobile">
                                     <div class="col-2-5 cc-mobile-2">
-                                    <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" alt=""/>
+                                    <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" style="max-width:80%; padding:10%!important; background:#fff" alt=""/>
                                     </div>
                                     <div class="col-3-5 cc-mobile-1">
 
@@ -127,7 +127,7 @@ class TextProcessor:
 
         mainTemplateElementMini = f"""<div class="col-3-3 cc-mobile">
                                     <div class="col-2-5 cc-mobile-2">
-                                    <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" alt=""/>
+                                    <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" style="max-width:80%; padding:10%!important; background:#fff" alt=""/>
                                     </div>
                                     <div class="col-3-5 cc-mobile-1">
                                     <h3>
@@ -169,7 +169,7 @@ class TextProcessor:
                 
                 templateElementLeft = f"""<div class="col-3-3 cc-mobile bg-gray-porcelain rounded-2xl">
                                         <div class="col-2-5 cc-mobile-2">
-                                        <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" alt=""/>
+                                        <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" style="max-width:80%; padding:10%!important; background:#fff" alt=""/>
                                         </div>
                                         <div class="col-3-5 cc-mobile-1">
                                         <h4>
@@ -198,7 +198,7 @@ class TextProcessor:
                                         </p>
                                         </div>
                                         <div class="col-2-5 cc-mobile-2">
-                                        <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" alt=""/>
+                                        <img src="https://media.komputronik.pl/pl-komputronik/img/opisy_produktow/content/SEO/IMAGENAME.jpg" class="left" style="max-width:80%; padding:10%!important; background:#fff" alt=""/>
                                         </div>
                                         
                                         </div>"""
